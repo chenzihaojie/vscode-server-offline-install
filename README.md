@@ -1,0 +1,1 @@
+根据vscode的版本,下载对应vscode-server的离线安装包,解压到家目录即可
